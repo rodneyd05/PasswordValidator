@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Password Validator</string>
+    <string name="type_your_password">Type your password</string>
+    <string name="password_must_have_at_least_8_characters">Password must have at least 8 characters</string>
+    <string name="password_must_have_at_least_1_uppercase_and_1_lowercase_letter">Password must have at least 1 uppercase and 1 lowercase letter</string>
+    <string name="password_must_have_at_least_1_number">Password must have at least 1 number</string>
+    <string name="password_must_have_at_least_1_special_character">Password must have at least 1 special character</string>
+</resources>
